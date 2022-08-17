@@ -1,1 +1,1 @@
-release: npx cowsay Procfile muuu
+release: npx cowsay Halli hallå
